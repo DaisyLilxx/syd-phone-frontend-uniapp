@@ -1,0 +1,146 @@
+.titleCom[data-v-84139ba5] {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2.875rem 1.375rem 0;
+}
+.titleCom .leftWrap[data-v-84139ba5] {
+  padding: 0.46875rem;
+  display: flex;
+  align-items: center;
+}
+.titleCom .leftImg[data-v-84139ba5] {
+  width: 1.0625rem;
+  height: 1rem;
+}
+.titleCom .titImg[data-v-84139ba5] {
+  width: 13.9375rem;
+  height: 3.3125rem;
+}
+.titleCom .tit[data-v-84139ba5] {
+  font-size: 1rem;
+  color: #ffffff;
+  line-height: 1.375rem;
+}
+
+.fixBottom[data-v-ed4fef3e] {
+  height: 16.0625rem;
+}
+.fixBottom .botCont[data-v-ed4fef3e] {
+  position: fixed;
+  bottom: -0.5rem;
+  left: -0.375rem;
+  height: 16.0625rem;
+  background: url(https://static.dstp.com.cn/img/wx/img04@2x.png) no-repeat;
+  background-size: cover;
+  width: calc(100% + 0.75rem);
+}
+.fixBottom .botCont .cont[data-v-ed4fef3e] {
+  padding: 4.375rem 2.84375rem 1.875rem;
+}
+.fixBottom .botCont .cont .tit[data-v-ed4fef3e] {
+  font-weight: 600;
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+}
+.fixBottom .botCont .cont .text[data-v-ed4fef3e] {
+  color: #575757;
+  font-size: 0.875rem;
+  margin-bottom: 1.25rem;
+  line-height: 1.5rem;
+}
+.fixBottom .botCont .cont .step[data-v-ed4fef3e] {
+  width: 18.5625rem;
+  height: 0.375rem;
+  background: #d2e5f1;
+  border-radius: 0.625rem;
+  position: relative;
+}
+.fixBottom .botCont .cont .step .progress[data-v-ed4fef3e] {
+  width: 11.625rem;
+  height: 0.375rem;
+  background: linear-gradient(270deg, #ff228e 0%, #5e22ff 30%, #3bcdff 87%, #1ef1e6 100%);
+  border-radius: 0.625rem;
+}
+.fixBottom .botCont .cont .step span[data-v-ed4fef3e] {
+  position: absolute;
+  left: 10.5rem;
+  width: 2.375rem;
+  height: 1.125rem;
+  background: #1f66fb;
+  border-radius: 0.625rem;
+  border: 0.0625rem solid #ffffff;
+  font-weight: 600;
+  font-size: 0.75rem;
+  color: #ffffff;
+  line-height: 1.0625rem;
+  text-align: center;
+  top: -0.46875rem;
+}
+
+.productDetail[data-v-be4f4aac] {
+  padding-top: 1rem;
+  background-color: #f6f9fc;
+}
+.productDetail .main[data-v-be4f4aac] {
+  background: url(https://static.dstp.com.cn/img/wx/bg02@2x.png) no-repeat;
+  background-size: cover;
+  min-height: 23.0625rem;
+  padding: 1.9375rem 1.9375rem 1rem 2.5rem;
+}
+.productDetail .main .block[data-v-be4f4aac] {
+  display: flex;
+  margin-bottom: 0.75rem;
+}
+.productDetail .main .block .text[data-v-be4f4aac] {
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  margin-right: 0.375rem;
+}
+.productDetail .main .block .text.text1[data-v-be4f4aac] {
+  background: url(https://static.dstp.com.cn/img/wx/icon_name1@2x.png) no-repeat;
+  background-size: 1rem 1rem;
+}
+.productDetail .main .block .text.text2[data-v-be4f4aac] {
+  background: url(https://static.dstp.com.cn/img/wx/icon_name2@2x.png) no-repeat;
+  background-size: 1rem 1rem;
+}
+.productDetail .main .block .text.text3[data-v-be4f4aac] {
+  background: url(https://static.dstp.com.cn/img/wx/icon_name3@2x.png) no-repeat;
+  background-size: 1rem 1rem;
+}
+.productDetail .main .block .text.text4[data-v-be4f4aac] {
+  background: url(https://static.dstp.com.cn/img/wx/icon_name4@2x.png) no-repeat;
+  background-size: 1rem 1rem;
+}
+.productDetail .main .block .text.text5[data-v-be4f4aac] {
+  background: url(https://static.dstp.com.cn/img/wx/icon_name5@2x.png) no-repeat;
+  background-size: 1rem 1rem;
+}
+.productDetail .main .block .cont[data-v-be4f4aac] {
+  padding-bottom: 0.6875rem;
+  border-bottom: 0.0625rem solid #dee4f1;
+  width: calc(100% - 1.375rem);
+}
+.productDetail .main .block .cont.noBor[data-v-be4f4aac] {
+  border-bottom: none;
+}
+.productDetail .main .block .cont .name[data-v-be4f4aac] {
+  font-weight: 600;
+  font-size: 0.75rem;
+  color: #1451d1;
+  line-height: 1.0625rem;
+  margin-bottom: 0.375rem;
+}
+.productDetail .main .block .cont .texts[data-v-be4f4aac] {
+  font-size: 0.875rem;
+  color: #2b2b2b;
+  line-height: 1.25rem;
+}
+.productDetail .tipText[data-v-be4f4aac] {
+  margin: 0.3125rem 0.90625rem 0.90625rem;
+  font-size: 0.75rem;
+  color: #8b8b8b;
+  line-height: 1rem;
+}

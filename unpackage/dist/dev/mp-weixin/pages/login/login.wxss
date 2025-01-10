@@ -1,0 +1,236 @@
+.other.data-v-e4e4508d {
+  text-align: center;
+  position: relative;
+  width: 100%;
+  font-size: 26rpx;
+  color: #8b8b8b;
+}
+.other.data-v-e4e4508d::before {
+  content: '';
+  display: inline-block;
+  width: 30%;
+  height: 1rpx;
+  position: absolute;
+  background: #ababab;
+  left: 0;
+  top: 15rpx;
+}
+.other.data-v-e4e4508d::after {
+  content: '';
+  display: inline-block;
+  width: 30%;
+  height: 1rpx;
+  position: absolute;
+  background: #ababab;
+  right: 0;
+  top: 15rpx;
+}
+.tc.data-v-e4e4508d {
+  text-align: center;
+  font-size: 24rpx;
+  color: #8b8b8b;
+  margin-bottom: 130rpx;
+}
+.tc .iconMess.data-v-e4e4508d {
+  margin: 30rpx 0 15rpx;
+}
+.toWxLogin.data-v-e4e4508d {
+  margin-top: 100rpx;
+}
+.toWxLogin .actBtn button.data-v-e4e4508d,
+.toWxLogin .actOneBtn.data-v-e4e4508d,
+.tc button.data-v-e4e4508d {
+  width: -webkit-max-content;
+  width: max-content;
+  margin-top: 30rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  font-weight: normal;
+  font-size: 26rpx;
+}
+.tc button.data-v-e4e4508d,
+.toWxLogin .actOneBtn.data-v-e4e4508d {
+  margin: 30rpx auto;
+  padding: 0 30rpx;
+  background: #07c160;
+  color: #fff;
+  border-radius: 999rpx;
+}
+.login.data-v-e4e4508d {
+  background: url('https://static.dstp.com.cn/img/bg01@2x.png') no-repeat;
+  background-size: 100% 866rpx;
+  background-color: #fff;
+  padding-bottom: 14rpx;
+}
+.login .van-cell.data-v-e4e4508d:after {
+  display: none;
+}
+.login .company.data-v-e4e4508d {
+  margin: 10rpx 0 70rpx 66rpx;
+  width: 446rpx;
+  height: 106rpx;
+}
+.login .tit.data-v-e4e4508d {
+  font-weight: 600;
+  font-size: 48rpx;
+  color: #001d3f;
+  line-height: 66rpx;
+  margin-left: 70rpx;
+  margin-top: 54rpx;
+}
+.login .main.data-v-e4e4508d {
+  background: url(https://static.dstp.com.cn/img/wx/loginBg.png) no-repeat;
+  background-size: 100% 1128rpx;
+  width: calc(100% - 32rpx);
+  margin: 0 auto;
+  height: 1128rpx;
+  padding: 106rpx 52rpx 20rpx;
+}
+.login .main .comNormalSubBtn.data-v-e4e4508d {
+  margin: 0;
+  width: 100%;
+}
+.login .main .comNormalSubBtn .actBtn button.data-v-e4e4508d,
+.login .main .comNormalSubBtn .actBtnLogin.data-v-e4e4508d {
+  background: none;
+  border: none;
+  height: 100rpx;
+  line-height: 100rpx;
+  font-weight: 600;
+  font-size: 36rpx;
+}
+.login .main .comNormalSubBtn .actBtnLogin.data-v-e4e4508d {
+  border-radius: 100rpx;
+  color: #fff;
+}
+.login .main .wxLoginPart.data-v-e4e4508d {
+  padding-top: 60rpx;
+}
+.login .main .wxLoginPart .comNormalSubBtn.data-v-e4e4508d {
+  margin-bottom: 30rpx;
+}
+.login .main .wxLoginPart .checkboxGroup label.data-v-e4e4508d {
+  display: flex;
+  line-height: 34rpx;
+  justify-content: center;
+  align-items: center;
+}
+.login .main .phoneIcon.data-v-e4e4508d {
+  display: inline-block;
+  width: 32rpx;
+  height: 32rpx;
+  background: url(https://static.dstp.com.cn/img/wx/shouji-2@2x.png) no-repeat;
+  background-size: 100%;
+  margin-left: 54rpx;
+  margin-top: 34rpx;
+}
+.login .main.data-v-e4e4508d .uni-forms-item {
+  margin-bottom: 40rpx;
+}
+.login .main.data-v-e4e4508d .uni-forms-item .uni-forms-item__error {
+  font-size: 28rpx;
+  padding-top: 5rpx;
+  line-height: 35rpx;
+  padding-left: 108rpx;
+}
+.login .main .fieldInp.data-v-e4e4508d {
+  border-radius: 50rpx;
+  border: 2rpx solid #dbe5f9;
+  padding: 26rpx 48rpx 26rpx 108rpx;
+  font-size: 32rpx;
+  line-height: 44rpx;
+  position: relative;
+}
+.login .main .fieldInp.data-v-e4e4508d .uni-easyinput__content-input,
+.login .main .fieldInp.data-v-e4e4508d .uni-easyinput,
+.login .main .fieldInp.data-v-e4e4508d .uni-easyinput__placeholder-class {
+  height: 44rpx !important;
+  font-size: 32rpx !important;
+  line-height: 44rpx !important;
+  padding-left: 0 !important;
+}
+.login .main .fieldInp.data-v-e4e4508d .is-input-border {
+  border: none !important;
+  height: 100% !important;
+}
+.login .main .fieldInp.phoneInp.data-v-e4e4508d::before {
+  content: '';
+  display: inline-block;
+  width: 32rpx;
+  height: 32rpx;
+  background: url(https://static.dstp.com.cn/img/wx/shouji-2@2x.png) no-repeat;
+  background-size: 100%;
+  position: absolute;
+  left: 54rpx;
+  top: 34rpx;
+}
+.login .main .fieldInp.codeInp.data-v-e4e4508d::before {
+  flex-shrink: 0;
+  content: '';
+  display: inline-block;
+  width: 32rpx;
+  height: 32rpx;
+  background: url(https://static.dstp.com.cn/img/wx/yanzhengma@2x.png) no-repeat;
+  background-size: 100%;
+  position: absolute;
+  left: 54rpx;
+  top: 34rpx;
+}
+.login .main .p.data-v-e4e4508d {
+  margin-top: 40rpx;
+  text-align: center;
+  font-size: 24rpx;
+  color: #8b8b8b;
+  line-height: 32rpx;
+}
+.login .main .codeIcon.data-v-e4e4508d {
+  display: inline-block;
+  width: 32rpx;
+  height: 32rpx;
+  background: url(https://static.dstp.com.cn/img/wx/yanzhengma@2x.png) no-repeat;
+  background-size: 100%;
+}
+.login .main .codeBtn.data-v-e4e4508d {
+  font-size: 28rpx;
+  color: #1f66fb;
+  line-height: 40rpx;
+}
+.login .main .codeBtn.disableBtn.data-v-e4e4508d {
+  color: #8b8b8b;
+}
+.login .main.data-v-e4e4508d .van-field__label {
+  width: auto;
+  display: flex;
+  align-items: center;
+}
+.login .main.data-v-e4e4508d .uni-data-checklist {
+  flex: none;
+}
+.login .main.data-v-e4e4508d .uni-data-checklist .checklist-group .checklist-box {
+  margin: 0 !important;
+}
+.login .main .checkWrap.data-v-e4e4508d {
+  display: flex;
+  padding-left: 60rpx;
+  font-size: 24rpx;
+  color: #575757;
+  line-height: 34rpx;
+  margin-bottom: 148rpx;
+  align-items: center;
+}
+.login .main .checkWrap .xy.data-v-e4e4508d {
+  color: #1f66fb;
+}
+.login .main .comNormalSubBtn.data-v-e4e4508d {
+  margin: 0;
+  width: 100%;
+}
+.login .main .comNormalSubBtn .actBtn.data-v-e4e4508d {
+  background: none;
+  border: none;
+  border-radius: 50rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  font-weight: 600;
+  font-size: 36rpx;
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "title-com": "../../components/titleCom"
+  }
+}

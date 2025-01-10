@@ -1,0 +1,92 @@
+.my.data-v-2f1ef635 {
+  background-color: #f6f9fc;
+  min-height: 100vh;
+  padding-top: 164rpx;
+  padding-bottom: 60rpx;
+}
+.my .company.data-v-2f1ef635 {
+  display: flex;
+  align-items: center;
+  padding: 52rpx 72rpx 60rpx;
+  color: #fff;
+}
+.my .company .img.data-v-2f1ef635 {
+  width: 128rpx;
+  height: 128rpx;
+  margin-right: 24rpx;
+}
+.my .company .name.data-v-2f1ef635 {
+  font-weight: 600;
+  font-size: 36rpx;
+  line-height: 50rpx;
+}
+.my .company .phone.data-v-2f1ef635 {
+  font-size: 28rpx;
+  line-height: 40rpx;
+}
+.my .cont.data-v-2f1ef635 {
+  background: url(https://static.dstp.com.cn/img/wx/mybg02@2x.png) no-repeat;
+  background-size: 100% 100%;
+  width: 718rpx;
+  height: 548rpx;
+  margin: 0 auto;
+  margin-bottom: 380rpx;
+}
+.my .cont .list.data-v-2f1ef635 {
+  padding: 146rpx 78rpx 22rpx 76rpx;
+}
+.my.data-v-2f1ef635 .uni-list {
+  position: unset;
+}
+.my.data-v-2f1ef635 .uni-list .uni-list-item {
+  position: unset;
+}
+.my.data-v-2f1ef635 .uni-list .uni-list-item__content-title {
+  font-weight: 600;
+  font-size: 30rpx;
+  color: #2b2b2b;
+  line-height: 42rpx;
+}
+.my .slot-box.data-v-2f1ef635 {
+  display: flex;
+}
+.my .slot-image.data-v-2f1ef635 {
+  display: inline-block;
+  width: 48rpx;
+  height: 48rpx;
+  margin-right: 20rpx;
+}
+.my .span.data-v-2f1ef635 {
+  display: inline-block;
+  width: 48rpx;
+  height: 48rpx;
+  margin-right: 20rpx;
+}
+.my .span.span1.data-v-2f1ef635 {
+  background: url(https://static.dstp.com.cn/img/wx/icon_ceejilu@2x.png) no-repeat;
+  background-size: 100% 100%;
+}
+.my .span.span2.data-v-2f1ef635 {
+  background: url(https://static.dstp.com.cn/img/wx/icon_ceejilu1@2x.png) no-repeat;
+  background-size: 100% 100%;
+}
+.my .span.span3.data-v-2f1ef635 {
+  background: url(https://static.dstp.com.cn/img/wx/icon_ceejilu3@2x.png) no-repeat;
+  background-size: 100% 100%;
+}
+.my .arrow.data-v-2f1ef635 {
+  display: inline-block;
+  width: 20rpx;
+  height: 20rpx;
+  background: url(https://static.dstp.com.cn/img/wx/personal_center_icon_forward03@2x.png) no-repeat;
+  background-size: 100% 100%;
+}
+.my .loginBar.data-v-2f1ef635 {
+  width: calc(100% - 56rpx);
+  margin: 0 auto;
+  border-radius: 32rpx;
+  height: 120rpx;
+  background: #ffffff;
+  display: flex;
+  padding-left: 64rpx;
+}

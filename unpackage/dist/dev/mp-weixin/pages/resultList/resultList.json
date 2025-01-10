@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "title-com": "../../components/titleCom",
+    "card-com": "../result/components/card",
+    "empty": "../../components/empty",
+    "skeleton": "./components/skeleton"
+  }
+}

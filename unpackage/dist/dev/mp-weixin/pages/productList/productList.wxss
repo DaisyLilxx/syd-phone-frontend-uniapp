@@ -1,0 +1,113 @@
+.productList.data-v-2bc95148 {
+  background: url(https://static.dstp.com.cn/img/wx/home_bg01@2x.png) no-repeat;
+  background-size: 100% 866rpx;
+  background-color: #fff;
+  width: 100%;
+  padding-top: 46rpx;
+}
+.productList .comSubBtn.data-v-2bc95148 {
+  width: calc(100% - 84rpx);
+  margin: 0 42rpx 46rpx;
+}
+.productList .mainWrap.data-v-2bc95148 {
+  overflow-x: hidden;
+  height: auto;
+}
+.productList .main.data-v-2bc95148 {
+  background: url(https://static.dstp.com.cn/img/wx/img01@2x.png) no-repeat;
+  background-position: 0 0;
+  background-size: 100%;
+  padding: 10rpx 27rpx;
+  margin: 0;
+  margin-left: -12rpx;
+  margin-bottom: 40rpx;
+  width: calc(100% + 24rpx);
+  min-height: 100vh;
+  height: 100%;
+}
+.productList .main .tip.data-v-2bc95148 {
+  padding: 40rpx 0 0 60rpx;
+  font-weight: 600;
+  font-size: 32rpx;
+  color: #ffffff;
+  line-height: 44rpx;
+  margin-bottom: 80rpx;
+}
+.productList .main .list .li.data-v-2bc95148 {
+  width: 100%;
+  min-height: 290rpx;
+  display: flex;
+  padding: 42rpx 52rpx 42rpx 54rpx;
+}
+.productList .main .list .li.orange.data-v-2bc95148 {
+  background: url(https://static.dstp.com.cn/img/wx/img02@2x.png) no-repeat;
+  background-size: 100% 100%;
+}
+.productList .main .list .li.pruple.data-v-2bc95148 {
+  background: url(https://static.dstp.com.cn/img/wx/img03@2x.png) no-repeat;
+  background-size: 100% 100%;
+}
+.productList .main .list .li .bankImg.data-v-2bc95148 {
+  width: 52rpx;
+  height: 52rpx;
+  margin-right: 20rpx;
+  border-radius: 26rpx;
+}
+.productList .main .list .li .rightCont.data-v-2bc95148 {
+  width: calc(100% - 72rpx);
+}
+.productList .main .list .li .rightCont .head.data-v-2bc95148 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 20rpx;
+  border-bottom: 2rpx solid #f1f1f1;
+}
+.productList .main .list .li .rightCont .head .name.data-v-2bc95148 {
+  font-weight: 500;
+  font-size: 30rpx;
+  line-height: 42rpx;
+  flex-shrink: 0;
+  width: calc(100% - 140rpx);
+}
+.productList .main .list .li .rightCont .head .detail.data-v-2bc95148 {
+  min-width: 100rpx;
+  height: 40rpx;
+  background: #e9f3ff;
+  border-radius: 32rpx;
+  display: flex;
+  align-items: center;
+  padding: 10rpx 18rpx;
+  color: #1f66fb;
+  font-size: 20rpx;
+}
+.productList .main .list .li .rightCont .head .detail .search_icon.data-v-2bc95148 {
+  display: inline-block;
+  margin-right: 4rpx;
+  width: 20rpx;
+  height: 20rpx;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAADh0lEQVQ4T42VXWgcdRTFz5mP3Y2p4FJJaZrMKBgogpCqWPBBqqKCUJDWqImIpnQnoQ8ifVAkVSqKiCKCX2lnm6RoI5q09CH6UB+kCAqpYlH6YJpWM7ObNliUiBTdzMeRWZOQTSpkHmfu/3fv/d9zzxAA2vdcbTWs/GuCdhLYCIDZ+3U8EvA7wYk0rh2oDDdfYgajlZsk0AbgrMALgNbBykIIKu0A2SmgqnhhO10vHgbUK6gv9HP+OkkNYU5/XGIqH+AIHS+6QqkalHPb1sC6ZLrF+J4UuJ9Q1kGNMqeNxJj4dZhTK+NdLzoroI2uF6USToRlu6shYG90nwy9R/DWNYkEgTyZGOaz1UOczb47pWicxO4MKIHjoW89tnTQKS2UQH5I4G8A7yZpOoY/c9NWM/KpXbsTND0Kj4KYS5P0wcpQ/tzimQfWAN16ZThF4KJM6+FwkL9s6lcLa9DcCK8sJXX7arsgYxTQHBfsbTNHOV8fU0OFXTKdYvQTYbTLNDvDBBVH0Vsk9wH4PvDtu1e2n1VF0hfwZujbL6wBul50L4CvALwe+PaA40XvEHhOwNcUXgzK9reN96lsqD8S3BKctzbhNOOGCttL0asGcSCO1RlHtcuFpkJFxGS42dqBg0yvJSmnFL1M4pVUuqtSzn3XAHRK8QipZyJYzfwHTVYhPqEEA+GQ/U1jq3VIT+DbW9v31roNw/gkEXdVy9bJ1cBBUv1JYm2sDvGP/xO540VnKHYEZavY3hf3GtKwlOwMy4XPG4BuKdoP4u0UeKji219eC3hTX9wraRjgscC3nnJLCx+A3JckSUd1qHChAdjWpw4zjacy0Qa+tXuV0F+CgUcA3A7xUixze97AXzHiixR+C8p2fQHW6NDxorFMtKmRdlcO5z9b1p0X/SDAgfRFonhg9sh1VbcUHwP1pMinw8PWR0vAhtVzvaubhdwZCi2g9get9uDqCTs980Vu2PA+oB6BsyHMm+EzqgPr5gBUA99eNodWT1stRRMkbwH0M8TjEqeBtAADdxDM9r4IKMwQEo+H02b3og4X7Uv0wrJVXmrxxj26vsmMnzcID0DLyvsUdI4y3gjmzU/dG5KPQXULGA/PWz2LBpufXLSnusEyTU8FR3JDdchBGVsuR7dZMtpSKTbNeGrmUNPMcoL/1nWU4OOQRutWv/oXIHAs9K0n1m22O2S5HclRIe38Fwhl5Zg3cTe8AAAAAElFTkSuQmCC) no-repeat;
+  background-size: cover;
+}
+.productList .main .list .li .rightCont .moneyCont.data-v-2bc95148 {
+  display: flex;
+  padding-top: 26rpx;
+}
+.productList .main .list .li .rightCont .moneyCont .div.data-v-2bc95148 {
+  width: 50%;
+}
+.productList .main .list .li .rightCont .moneyCont .name.data-v-2bc95148 {
+  font-size: 28rpx;
+  color: #6b6b6b;
+  line-height: 40rpx;
+  margin-bottom: 6rpx;
+}
+.productList .main .list .li .rightCont .moneyCont .money.data-v-2bc95148 {
+  font-weight: bold;
+  font-size: 44rpx;
+  color: #2b2b2b;
+  line-height: 56rpx;
+}
+.productList .main .list .li .rightCont .moneyCont .money .small.data-v-2bc95148 {
+  font-size: 32rpx;
+}

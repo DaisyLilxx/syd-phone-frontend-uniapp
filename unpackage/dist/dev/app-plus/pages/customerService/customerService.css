@@ -1,0 +1,132 @@
+.titleCom[data-v-84139ba5] {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2.875rem 1.375rem 0;
+}
+.titleCom .leftWrap[data-v-84139ba5] {
+  padding: 0.46875rem;
+  display: flex;
+  align-items: center;
+}
+.titleCom .leftImg[data-v-84139ba5] {
+  width: 1.0625rem;
+  height: 1rem;
+}
+.titleCom .titImg[data-v-84139ba5] {
+  width: 13.9375rem;
+  height: 3.3125rem;
+}
+.titleCom .tit[data-v-84139ba5] {
+  font-size: 1rem;
+  color: #ffffff;
+  line-height: 1.375rem;
+}
+
+.customerService[data-v-bc0db00a] {
+  background-color: #f6f9fc;
+  min-height: 100vh;
+  padding-bottom: 6.6875rem;
+}
+.customerService .block1[data-v-bc0db00a] {
+  background: url(https://static.dstp.com.cn/img/wx/danchuye_bg02@2x.png) no-repeat;
+  background-size: 100% 100%;
+  width: calc(100% - 1rem);
+  min-height: 24.0625rem;
+  margin: 0 auto;
+  text-align: center;
+  padding: 2.5rem 2.0625rem 1.875rem;
+}
+.customerService .block1 .head[data-v-bc0db00a] {
+  font-weight: 600;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  margin-bottom: 0.625rem;
+}
+.customerService .block1 .text[data-v-bc0db00a] {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  word-break: break-all;
+  text-align: left;
+}
+.customerService .block1 .text .link[data-v-bc0db00a] {
+  color: #1451d1;
+}
+.customerService .block1 .text.bm10[data-v-bc0db00a] {
+  margin-bottom: 0.46875rem;
+}
+.customerService .block1 .codeWrap[data-v-bc0db00a] {
+  margin: 0 auto;
+  background: url(https://static.dstp.com.cn/img/wx/danchuye_img01@2x.png) no-repeat;
+  background-size: 100%;
+  width: 13.0625rem;
+  height: 15rem;
+  padding: 3.375rem 1.125rem 1.125rem 1.25rem;
+}
+.customerService .block1 .codeWrap .img[data-v-bc0db00a] {
+  width: 10.65625rem;
+  height: 10.5rem;
+}
+.customerService .block2[data-v-bc0db00a] {
+  margin: 0 auto;
+  width: 21.6875rem;
+  height: 13.75rem;
+  background: #ffffff;
+  box-shadow: 0 0.125rem 0.375rem 0 rgba(222, 222, 222, 0.5);
+  border-radius: 1rem;
+  padding: 1.875rem 1.15625rem 0.9375rem;
+  text-align: center;
+}
+.customerService .block2 .head[data-v-bc0db00a] {
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.375rem;
+  position: relative;
+  margin-bottom: 1.875rem;
+}
+.customerService .block2 .head[data-v-bc0db00a]::before {
+  content: '';
+  display: inline-block;
+  width: 2.5rem;
+  height: 0.375rem;
+  position: absolute;
+  left: 50%;
+  top: 0.5625rem;
+  margin-left: -5.5em;
+  background: url(https://static.dstp.com.cn/img/wx/danchuye_sign01@2x.png) no-repeat;
+  background-size: 100%;
+}
+.customerService .block2 .head[data-v-bc0db00a]::after {
+  content: '';
+  display: inline-block;
+  width: 2.5rem;
+  height: 0.375rem;
+  position: absolute;
+  left: 50%;
+  top: 0.5625rem;
+  margin-left: 3em;
+  background: url(https://static.dstp.com.cn/img/wx/danchuye_sign02@2x.png) no-repeat;
+  background-size: 100%;
+}
+.customerService .block2 .step[data-v-bc0db00a] {
+  width: 16.625rem;
+  height: 0.875rem;
+  margin: 0 auto 0.5rem;
+}
+.customerService .block2 .cont[data-v-bc0db00a] {
+  font-size: 0.75rem;
+  line-height: 1.125rem;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.customerService .block2 .botText[data-v-bc0db00a] {
+  width: 100%;
+  height: 1.875rem;
+  line-height: 1.875rem;
+  background: #f2f6ff;
+  border-radius: 0.875rem;
+  margin-top: 2.1875rem;
+  font-size: 0.75rem;
+  color: #575757;
+}

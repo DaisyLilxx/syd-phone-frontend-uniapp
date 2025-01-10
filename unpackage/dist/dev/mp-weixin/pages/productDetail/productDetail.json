@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "title-com": "../../components/titleCom",
+    "fix-bottom": "../productList/components/fixBottom"
+  }
+}

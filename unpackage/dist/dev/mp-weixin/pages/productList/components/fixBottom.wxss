@@ -1,0 +1,54 @@
+.fixBottom.data-v-ed4fef3e {
+  height: 514rpx;
+}
+.fixBottom .botCont.data-v-ed4fef3e {
+  position: fixed;
+  bottom: -16rpx;
+  left: -12rpx;
+  height: 514rpx;
+  background: url(https://static.dstp.com.cn/img/wx/img04@2x.png) no-repeat;
+  background-size: cover;
+  width: calc(100% + 24rpx);
+}
+.fixBottom .botCont .cont.data-v-ed4fef3e {
+  padding: 140rpx 91rpx 60rpx;
+}
+.fixBottom .botCont .cont .tit.data-v-ed4fef3e {
+  font-weight: 600;
+  font-size: 36rpx;
+  line-height: 48rpx;
+}
+.fixBottom .botCont .cont .text.data-v-ed4fef3e {
+  color: #575757;
+  font-size: 28rpx;
+  margin-bottom: 40rpx;
+  line-height: 48rpx;
+}
+.fixBottom .botCont .cont .step.data-v-ed4fef3e {
+  width: 594rpx;
+  height: 12rpx;
+  background: #d2e5f1;
+  border-radius: 20rpx;
+  position: relative;
+}
+.fixBottom .botCont .cont .step .progress.data-v-ed4fef3e {
+  width: 372rpx;
+  height: 12rpx;
+  background: linear-gradient(270deg, #ff228e 0%, #5e22ff 30%, #3bcdff 87%, #1ef1e6 100%);
+  border-radius: 20rpx;
+}
+.fixBottom .botCont .cont .step span.data-v-ed4fef3e {
+  position: absolute;
+  left: 336rpx;
+  width: 76rpx;
+  height: 36rpx;
+  background: #1f66fb;
+  border-radius: 20rpx;
+  border: 2rpx solid #ffffff;
+  font-weight: 600;
+  font-size: 24rpx;
+  color: #ffffff;
+  line-height: 34rpx;
+  text-align: center;
+  top: -15rpx;
+}

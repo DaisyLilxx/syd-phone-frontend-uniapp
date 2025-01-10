@@ -1,0 +1,16 @@
+.result.data-v-e17d58b8 {
+  background: url(https://static.dstp.com.cn/img/wx/jieguoye_bg01@2x.png) no-repeat;
+  background-size: 100% 672rpx;
+  padding-top: 32rpx;
+  padding-bottom: 32rpx;
+  height: auto;
+}
+.result .head.data-v-e17d58b8 {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 500;
+  font-size: 32rpx;
+  line-height: 44rpx;
+  padding: 0 40rpx 0 44rpx;
+  margin-bottom: 12rpx;
+}

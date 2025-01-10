@@ -1,0 +1,238 @@
+.titleCom[data-v-84139ba5] {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2.875rem 1.375rem 0;
+}
+.titleCom .leftWrap[data-v-84139ba5] {
+  padding: 0.46875rem;
+  display: flex;
+  align-items: center;
+}
+.titleCom .leftImg[data-v-84139ba5] {
+  width: 1.0625rem;
+  height: 1rem;
+}
+.titleCom .titImg[data-v-84139ba5] {
+  width: 13.9375rem;
+  height: 3.3125rem;
+}
+.titleCom .tit[data-v-84139ba5] {
+  font-size: 1rem;
+  color: #ffffff;
+  line-height: 1.375rem;
+}
+
+.fixBottom[data-v-ed4fef3e] {
+  height: 16.0625rem;
+}
+.fixBottom .botCont[data-v-ed4fef3e] {
+  position: fixed;
+  bottom: -0.5rem;
+  left: -0.375rem;
+  height: 16.0625rem;
+  background: url(https://static.dstp.com.cn/img/wx/img04@2x.png) no-repeat;
+  background-size: cover;
+  width: calc(100% + 0.75rem);
+}
+.fixBottom .botCont .cont[data-v-ed4fef3e] {
+  padding: 4.375rem 2.84375rem 1.875rem;
+}
+.fixBottom .botCont .cont .tit[data-v-ed4fef3e] {
+  font-weight: 600;
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+}
+.fixBottom .botCont .cont .text[data-v-ed4fef3e] {
+  color: #575757;
+  font-size: 0.875rem;
+  margin-bottom: 1.25rem;
+  line-height: 1.5rem;
+}
+.fixBottom .botCont .cont .step[data-v-ed4fef3e] {
+  width: 18.5625rem;
+  height: 0.375rem;
+  background: #d2e5f1;
+  border-radius: 0.625rem;
+  position: relative;
+}
+.fixBottom .botCont .cont .step .progress[data-v-ed4fef3e] {
+  width: 11.625rem;
+  height: 0.375rem;
+  background: linear-gradient(270deg, #ff228e 0%, #5e22ff 30%, #3bcdff 87%, #1ef1e6 100%);
+  border-radius: 0.625rem;
+}
+.fixBottom .botCont .cont .step span[data-v-ed4fef3e] {
+  position: absolute;
+  left: 10.5rem;
+  width: 2.375rem;
+  height: 1.125rem;
+  background: #1f66fb;
+  border-radius: 0.625rem;
+  border: 0.0625rem solid #ffffff;
+  font-weight: 600;
+  font-size: 0.75rem;
+  color: #ffffff;
+  line-height: 1.0625rem;
+  text-align: center;
+  top: -0.46875rem;
+}
+
+.emptyBg[data-v-4ccfcf60] {
+  width: 21.6875rem;
+  height: 43.6875rem;
+  background: #ffffff;
+  box-shadow: 0 0.125rem 0.375rem 0 rgba(222, 222, 222, 0.5);
+  border-radius: 1rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.contWrap[data-v-4ccfcf60] {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.emptyNoBg[data-v-4ccfcf60] {
+  width: 21.6875rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1.875rem;
+  padding-top: 9.375rem;
+  text-align: center;
+}
+.robot[data-v-4ccfcf60] {
+  width: 8.96875rem;
+  height: 7.75rem;
+  margin-bottom: 1.6875rem;
+  margin-left: 3.53125rem;
+}
+.robot .img[data-v-4ccfcf60] {
+  width: 100%;
+  height: 100%;
+}
+.text[data-v-4ccfcf60] {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #2b2b2b;
+  line-height: 1.875rem;
+}
+
+.productList[data-v-2bc95148] {
+  background: url(https://static.dstp.com.cn/img/wx/home_bg01@2x.png) no-repeat;
+  background-size: 100% 27.0625rem;
+  background-color: #fff;
+  width: 100%;
+  padding-top: 1.4375rem;
+}
+.productList .comSubBtn[data-v-2bc95148] {
+  width: calc(100% - 2.625rem);
+  margin: 0 1.3125rem 1.4375rem;
+}
+.productList .mainWrap[data-v-2bc95148] {
+  overflow-x: hidden;
+  height: auto;
+}
+.productList .main[data-v-2bc95148] {
+  background: url(https://static.dstp.com.cn/img/wx/img01@2x.png) no-repeat;
+  background-position: 0 0;
+  background-size: 100%;
+  padding: 0.3125rem 0.84375rem;
+  margin: 0;
+  margin-left: -0.375rem;
+  margin-bottom: 1.25rem;
+  width: calc(100% + 0.75rem);
+  min-height: 100vh;
+  height: 100%;
+}
+.productList .main .tip[data-v-2bc95148] {
+  padding: 1.25rem 0 0 1.875rem;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #ffffff;
+  line-height: 1.375rem;
+  margin-bottom: 2.5rem;
+}
+.productList .main .list .li[data-v-2bc95148] {
+  width: 100%;
+  min-height: 9.0625rem;
+  display: flex;
+  padding: 1.3125rem 1.625rem 1.3125rem 1.6875rem;
+}
+.productList .main .list .li.orange[data-v-2bc95148] {
+  background: url(https://static.dstp.com.cn/img/wx/img02@2x.png) no-repeat;
+  background-size: 100% 100%;
+}
+.productList .main .list .li.pruple[data-v-2bc95148] {
+  background: url(https://static.dstp.com.cn/img/wx/img03@2x.png) no-repeat;
+  background-size: 100% 100%;
+}
+.productList .main .list .li .bankImg[data-v-2bc95148] {
+  width: 1.625rem;
+  height: 1.625rem;
+  margin-right: 0.625rem;
+  border-radius: 0.8125rem;
+}
+.productList .main .list .li .rightCont[data-v-2bc95148] {
+  width: calc(100% - 2.25rem);
+}
+.productList .main .list .li .rightCont .head[data-v-2bc95148] {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 0.625rem;
+  border-bottom: 0.0625rem solid #f1f1f1;
+}
+.productList .main .list .li .rightCont .head .name[data-v-2bc95148] {
+  font-weight: 500;
+  font-size: 0.9375rem;
+  line-height: 1.3125rem;
+  flex-shrink: 0;
+  width: calc(100% - 4.375rem);
+}
+.productList .main .list .li .rightCont .head .detail[data-v-2bc95148] {
+  min-width: 3.125rem;
+  height: 1.25rem;
+  background: #e9f3ff;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  padding: 0.3125rem 0.5625rem;
+  color: #1f66fb;
+  font-size: 0.625rem;
+}
+.productList .main .list .li .rightCont .head .detail .search_icon[data-v-2bc95148] {
+  display: inline-block;
+  margin-right: 0.125rem;
+  width: 0.625rem;
+  height: 0.625rem;
+  background: url(../../static/images/productList/icon_chakanxiangqing@2x.png) no-repeat;
+  background-size: cover;
+}
+.productList .main .list .li .rightCont .moneyCont[data-v-2bc95148] {
+  display: flex;
+  padding-top: 0.8125rem;
+}
+.productList .main .list .li .rightCont .moneyCont .div[data-v-2bc95148] {
+  width: 50%;
+}
+.productList .main .list .li .rightCont .moneyCont .name[data-v-2bc95148] {
+  font-size: 0.875rem;
+  color: #6b6b6b;
+  line-height: 1.25rem;
+  margin-bottom: 0.1875rem;
+}
+.productList .main .list .li .rightCont .moneyCont .money[data-v-2bc95148] {
+  font-weight: bold;
+  font-size: 1.375rem;
+  color: #2b2b2b;
+  line-height: 1.75rem;
+}
+.productList .main .list .li .rightCont .moneyCont .money .small[data-v-2bc95148] {
+  font-size: 1rem;
+}

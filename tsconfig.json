@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "esnext",
+		"strict": true,
+		"jsx": "preserve",
+		"importHelpers": true,
+		"moduleResolution": "node",
+		"experimentalDecorators": true,
+		"allowSyntheticDefaultImports": true,
+		"baseUrl": ".",
+		"paths": {
+			"@/*": ["./*"]
+		}
+	},
+	"exclude": ["node_modules", "unpackage"]
+}

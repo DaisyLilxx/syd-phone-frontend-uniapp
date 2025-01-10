@@ -1,0 +1,107 @@
+.customerService.data-v-bc0db00a {
+  background-color: #f6f9fc;
+  min-height: 100vh;
+  padding-bottom: 214rpx;
+}
+.customerService .block1.data-v-bc0db00a {
+  background: url(https://static.dstp.com.cn/img/wx/danchuye_bg02@2x.png) no-repeat;
+  background-size: 100% 100%;
+  width: calc(100% - 32rpx);
+  min-height: 770rpx;
+  margin: 0 auto;
+  text-align: center;
+  padding: 80rpx 66rpx 60rpx;
+}
+.customerService .block1 .head.data-v-bc0db00a {
+  font-weight: 600;
+  font-size: 40rpx;
+  line-height: 56rpx;
+  margin-bottom: 20rpx;
+}
+.customerService .block1 .text.data-v-bc0db00a {
+  font-size: 28rpx;
+  line-height: 40rpx;
+  word-break: break-all;
+  text-align: left;
+}
+.customerService .block1 .text .link.data-v-bc0db00a {
+  color: #1451d1;
+}
+.customerService .block1 .text.bm10.data-v-bc0db00a {
+  margin-bottom: 15rpx;
+}
+.customerService .block1 .codeWrap.data-v-bc0db00a {
+  margin: 0 auto;
+  background: url(https://static.dstp.com.cn/img/wx/danchuye_img01@2x.png) no-repeat;
+  background-size: 100%;
+  width: 418rpx;
+  height: 480rpx;
+  padding: 108rpx 36rpx 36rpx 40rpx;
+}
+.customerService .block1 .codeWrap .img.data-v-bc0db00a {
+  width: 341rpx;
+  height: 336rpx;
+}
+.customerService .block2.data-v-bc0db00a {
+  margin: 0 auto;
+  width: 694rpx;
+  height: 440rpx;
+  background: #ffffff;
+  box-shadow: 0rpx 4rpx 12rpx 0rpx rgba(222, 222, 222, 0.5);
+  border-radius: 32rpx;
+  padding: 60rpx 37rpx 30rpx;
+  text-align: center;
+}
+.customerService .block2 .head.data-v-bc0db00a {
+  font-weight: 500;
+  font-size: 32rpx;
+  line-height: 44rpx;
+  position: relative;
+  margin-bottom: 60rpx;
+}
+.customerService .block2 .head.data-v-bc0db00a::before {
+  content: '';
+  display: inline-block;
+  width: 80rpx;
+  height: 12rpx;
+  position: absolute;
+  left: 50%;
+  top: 18rpx;
+  margin-left: -5.5em;
+  background: url(https://static.dstp.com.cn/img/wx/danchuye_sign01@2x.png) no-repeat;
+  background-size: 100%;
+}
+.customerService .block2 .head.data-v-bc0db00a::after {
+  content: '';
+  display: inline-block;
+  width: 80rpx;
+  height: 12rpx;
+  position: absolute;
+  left: 50%;
+  top: 18rpx;
+  margin-left: 3em;
+  background: url(https://static.dstp.com.cn/img/wx/danchuye_sign02@2x.png) no-repeat;
+  background-size: 100%;
+}
+.customerService .block2 .step.data-v-bc0db00a {
+  width: 532rpx;
+  height: 28rpx;
+  margin: 0 auto 16rpx;
+}
+.customerService .block2 .cont.data-v-bc0db00a {
+  font-size: 24rpx;
+  line-height: 36rpx;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.customerService .block2 .botText.data-v-bc0db00a {
+  width: 100%;
+  height: 60rpx;
+  line-height: 60rpx;
+  background: #f2f6ff;
+  border-radius: 28rpx;
+  margin-top: 70rpx;
+  font-size: 24rpx;
+  color: #575757;
+}

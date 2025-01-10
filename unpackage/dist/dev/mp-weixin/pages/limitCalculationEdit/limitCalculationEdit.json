@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "uni-forms-item": "../../uni_modules/uni-forms/components/uni-forms-item/uni-forms-item",
+    "uni-forms": "../../uni_modules/uni-forms/components/uni-forms/uni-forms",
+    "uni-popup": "../../uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "skeleton": "./components/skeleton",
+    "title-com": "../../components/titleCom"
+  }
+}

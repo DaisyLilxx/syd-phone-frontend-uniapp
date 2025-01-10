@@ -1,0 +1,107 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/tabIndex/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "数据信用评估额度"
+
+			}
+		},
+
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/limitCalculationEdit/limitCalculationEdit",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/resultList/resultList",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/customerService/customerService",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/productList/productList",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/completeMess/completeMess",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/productDetail/productDetail",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/result/result",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}
+
+
+	],
+	"globalStyle": {
+		"navigationStyle": "custom"
+		// "navigationBarTextStyle": "black",
+		// "navigationBarTitleText": "uni-app",
+		// "navigationBarBackgroundColor": "#F8F8F8",
+		// "backgroundColor": "#F8F8F8"
+		// "transparentTitle": "always"
+	},
+	"lazyCodeLoading": "requiredComponents",
+	"uniIdRouter": {},
+	"tabBar": {
+		"color": "#2b2b2b",
+		"selectedColor": "#1F66FB",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"iconWidth": "24px",
+		"list": [{
+			"pagePath": "pages/tabIndex/index",
+			"iconPath": "static/images/index/2.png",
+			"selectedIconPath": "static/images/index/index_active.png",
+			"text": "首页"
+		}, {
+			"pagePath": "pages/index/index",
+			"iconPath": "static/images/tabIndex/11.png",
+			"selectedIconPath": "static/images/tabIndex/11_active.png",
+			"text": "数据信用评估额度"
+		}, {
+			"pagePath": "pages/my/my",
+			"iconPath": "static/images/index/person_normal.png",
+			"selectedIconPath": "static/images/index/1.png",
+			"text": "我的"
+		}]
+	}
+}

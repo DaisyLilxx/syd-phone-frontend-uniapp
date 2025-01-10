@@ -1,0 +1,123 @@
+.limitCalculationEdit.data-v-91acbb14 {
+  background: url('https://static.dstp.com.cn/img/bg03@2x.png') no-repeat;
+  background-size: 100% 826rpx;
+  background-color: #abe2ff;
+  padding-bottom: 30rpx;
+}
+.limitCalculationEdit .formBlock.data-v-91acbb14 {
+  width: calc(100% - 32rpx);
+  min-height: 1132rpx;
+  margin: 0 auto 24rpx;
+}
+.limitCalculationEdit .formBlock .comFormCont .comFieldInp.data-v-91acbb14 {
+  background: transparent;
+}
+.limitCalculationEdit .formBlock .head.data-v-91acbb14 {
+  margin-top: 225rpx;
+  padding-top: 54rpx;
+  text-align: center;
+  background: url(https://static.dstp.com.cn/img/wx/bgTop.png) no-repeat;
+  background-size: cover;
+  width: calc(100% - 32rpx);
+  height: 158rpx;
+  margin-bottom: -18rpx;
+}
+.limitCalculationEdit .formBlock .head .h2.data-v-91acbb14 {
+  font-size: 30rpx;
+  color: #ffffff;
+  line-height: 42rpx;
+}
+.limitCalculationEdit .formBlock .cont.data-v-91acbb14 {
+  background: url(https://static.dstp.com.cn/img/wx/bg02@2x.png) no-repeat;
+  background-size: 100% 100%;
+  padding: 70rpx 52rpx 100rpx;
+}
+.limitCalculationEdit .formBlock .cont .typeUl.data-v-91acbb14 {
+  width: 100%;
+  padding: 0 20rpx;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 60rpx;
+}
+.limitCalculationEdit .formBlock .cont .typeUl .li.data-v-91acbb14 {
+  width: 260rpx;
+  height: 236rpx;
+  background: #ffffff;
+  box-shadow: 0rpx 4rpx 12rpx 0rpx rgba(222, 222, 222, 0.5);
+  border-radius: 32rpx;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.limitCalculationEdit .formBlock .cont .typeUl .li .typeImg.data-v-91acbb14 {
+  width: 94rpx;
+  height: 108rpx;
+  margin-bottom: 16rpx;
+}
+.limitCalculationEdit .formBlock .cont .typeUl .li .typeImg2.data-v-91acbb14 {
+  width: 94rpx;
+  height: 100rpx;
+  margin-bottom: 18rpx;
+}
+.limitCalculationEdit .formBlock .cont .typeUl .li .check.data-v-91acbb14 {
+  position: absolute;
+  top: 20rpx;
+  right: 20rpx;
+  width: 28rpx;
+  height: 28rpx;
+}
+.limitCalculationEdit .formBlock .cont .typeUl .li .h2.data-v-91acbb14 {
+  font-weight: 600;
+  font-size: 32rpx;
+  line-height: 44rpx;
+}
+.limitCalculationEdit .formBlock .cont .typeUl .li.active.data-v-91acbb14 {
+  border: 4rpx solid #1f66fb;
+}
+.limitCalculationEdit .formBlock .textName.data-v-91acbb14 {
+  font-weight: 600;
+  font-size: 24rpx;
+  line-height: 34rpx;
+  margin-bottom: 30rpx;
+}
+.limitCalculationEdit .formBlock .textName .span.data-v-91acbb14 {
+  color: #f5173d;
+}
+.limitCalculationEdit .formBlock .sourceUl.data-v-91acbb14 {
+  padding: 0 28rpx 40rpx 20rpx;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-bottom: 2rpx solid #f1f1f1;
+}
+.limitCalculationEdit .formBlock .sourceUl .li.data-v-91acbb14 {
+  width: 272rpx;
+  height: 70rpx;
+  background: #edf4fd;
+  font-weight: 600;
+  font-size: 26rpx;
+  color: #6b6b6b;
+  line-height: 70rpx;
+  border-radius: 36rpx;
+  text-align: center;
+  margin-bottom: 20rpx;
+}
+.limitCalculationEdit .formBlock .sourceUl .li.active.data-v-91acbb14 {
+  background: #1f66fb;
+  color: #ffffff;
+}
+.limitCalculationEdit .btn.data-v-91acbb14 {
+  background: url(https://static.dstp.com.cn/img/wx/btn_normal@2x.png) no-repeat;
+  background-size: 100%;
+  height: 100rpx;
+  line-height: 100rpx;
+  font-weight: 600;
+  font-size: 36rpx;
+  color: #ffffff;
+  width: calc(100% - 58rpx);
+  margin: 24rpx 29rpx 0;
+  text-align: center;
+  border: none;
+}

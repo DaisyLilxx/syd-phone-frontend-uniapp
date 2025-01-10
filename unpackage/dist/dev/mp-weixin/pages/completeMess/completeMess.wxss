@@ -1,0 +1,75 @@
+.completeMess.data-v-1251a8f2 {
+  background-color: #f6f9fc;
+  padding-top: 0;
+  padding-bottom: 30rpx;
+}
+.completeMess .main.data-v-1251a8f2 {
+  height: auto;
+  width: calc(100% - 32rpx);
+  margin: 0 auto;
+  margin-bottom: 24rpx;
+}
+.completeMess .main .head.data-v-1251a8f2 {
+  padding-top: 54rpx;
+  text-align: center;
+  background: url(https://static.dstp.com.cn/img/wx/bgTop.png) no-repeat;
+  background-size: 100%;
+  width: calc(100% - 32rpx);
+  height: 158rpx;
+  margin-bottom: -10rpx;
+  font-size: 30rpx;
+  color: #ffffff;
+  line-height: 42rpx;
+  padding-left: 32rpx;
+}
+.completeMess .main .comFormCont.data-v-1251a8f2 {
+  padding-top: 20rpx;
+  background: #ffffff;
+  box-shadow: 0rpx 4rpx 12rpx 0rpx rgba(222, 222, 222, 0.5);
+  border-radius: 32rpx;
+}
+.completeMess2.data-v-1251a8f2 {
+  padding-top: 20rpx;
+  padding-bottom: 30rpx;
+}
+.comSelectInp.data-v-1251a8f2 .van-field__body {
+  width: 552rpx;
+}
+.comSelectInp.data-v-1251a8f2 .van-field__value::after {
+  display: inline-block;
+  position: absolute;
+  content: '天';
+  font-size: 28rpx;
+  right: 0;
+  top: 16rpx;
+  line-height: 40rpx;
+}
+.submitLoading.data-v-1251a8f2 {
+  text-align: center;
+  width: calc(100% - 56rpx);
+  height: 1398rpx;
+  background: #ffffff;
+  box-shadow: 0rpx 4rpx 12rpx 0rpx rgba(222, 222, 222, 0.5);
+  border-radius: 32rpx;
+  margin: 0 auto;
+  padding-top: 198rpx;
+}
+.submitLoading .loadImg.data-v-1251a8f2 {
+  width: 385rpx;
+  height: 182rpx;
+  margin: 0 auto 100rpx;
+}
+.submitLoading .tit.data-v-1251a8f2 {
+  font-weight: 600;
+  font-size: 44rpx;
+  line-height: 60rpx;
+  margin-bottom: 30rpx;
+}
+.submitLoading .text.data-v-1251a8f2 {
+  font-size: 28rpx;
+  color: #575757;
+  line-height: 40rpx;
+}
+.submitLoading .text text.data-v-1251a8f2 {
+  color: #fe2525;
+}
