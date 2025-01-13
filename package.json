@@ -4,17 +4,20 @@
 	"description": "",
 	"main": "main.ts",
 	"scripts": {
-		"build:h5": "vue-cli-service build --mode production",
 		"lint": "eslint --ext .js,.ts,.vue src",
 		"lint:fix": "eslint --ext .js,.ts,.vue src --fix",
-		"format": "prettier --write ."
+		"format": "prettier --write .",
+		"dev": "npm run serve",
+		"build:h5": "npx @dcloudio/uni-app build h5"
 	},
 	"author": "",
 	"license": "ISC",
 	"devDependencies": {
 		"@dcloudio/types": "^3.4.14",
+		"@dcloudio/uni-app": "^2.0.2-4040520250103001",
 		"@typescript-eslint/eslint-plugin": "^8.12.2",
 		"@typescript-eslint/parser": "^8.12.2",
+		"@vue/cli-service": "^5.0.8",
 		"eslint": "^9.13.0",
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-prettier": "^5.2.1",

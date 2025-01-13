@@ -24,7 +24,7 @@ interface ApiResponse<T> {
 }
 
 const BASE_URL = import.meta.env.VITE_APP_BASE_URL; // API 的基础 URL
-
+console.log('BASE_URLBASE_URLBASE_URL', BASE_URL);
 // 封装请求函数
 export function request<T = any>(
   options: RequestOptions,
@@ -54,7 +54,7 @@ export function request<T = any>(
       success: (res) => {
         console.log('eeeee', res);
         if (res.statusCode === 200) {
-         // resolve(res.data);
+          // resolve(res.data);
           resolve({
             data: res.data as T,
             statusCode: res.statusCode,
